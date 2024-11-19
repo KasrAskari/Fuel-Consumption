@@ -22,7 +22,10 @@ Fuel-Consumption/
   - pandas  
   - scikit-learn  
   - matplotlib  
-  - seaborn  
+  - seaborn
+ 
+## Acknowledgments  
+- Dataset: [Kaggle - Fuel Consumption](https://www.kaggle.com/datasets/komalnaseer/fuelconsumptioncsv)
 
 ## License  
 This project is licensed under the MIT License. 
