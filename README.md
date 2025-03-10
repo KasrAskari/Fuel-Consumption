@@ -1,4 +1,4 @@
-### 🚗 Fuel Consumption Prediction Model  
+## 🚗 Fuel Consumption Prediction Model  
 
 ## 📌 Overview  
 This project aims to **predict CO2 emissions** based on various fuel consumption factors using a **Multiple Linear Regression** model. The dataset, sourced from Kaggle, provides fuel consumption data for different vehicles, enabling a data-driven approach to emissions forecasting.  
